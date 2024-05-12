@@ -1,4 +1,4 @@
-# Request Header Parser Microservice
+# Timestamp Microservice
 
 This is a project for the Back End Development and APIs freeCodeCamp certificate.
 
